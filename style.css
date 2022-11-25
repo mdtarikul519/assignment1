@@ -1,0 +1,153 @@
+.wellcome_section{
+    width: 980px;
+    margin: auto;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLaNnGrw0t8mYGN-0PZTDjaT987It4mscWjA&usqp=CAU");
+    color: white;
+    height: 300px;
+    /* background-repeat: no-repeat ; */
+    text-align: center;
+    padding-top: 80px;
+
+}
+
+.wellcome_section h1{
+  font-family: sans-serif;
+  line-height: 2px;
+}
+.wellcome_section p{
+    font-style: normal;
+    width: 700px;
+   margin-left: 140px;
+   
+}
+
+.wellcome_section a{
+     color: white;
+     border: 1px solid gray;
+     text-decoration: none;
+     padding: 10px 16px;
+    display: inline-block;
+}
+
+.web_content{
+    width: 980px;
+    margin: auto;
+    text-align: center;
+}
+
+.web_content1{
+  display: inline-block;
+}
+
+.web_content2{
+   display: inline-block;
+}
+.web_content h1{
+    
+}
+
+.web_content p{
+    width: 350px;
+    border: 1px solid gray;
+}
+.web_content h6{
+    width: 350px;
+   font-size: 14px;
+   border: 1px solid gray;
+   display: inline-block;
+   vertical-align: top;
+   margin-left: 230px;
+}
+
+
+
+
+.card_section{
+    width: 980px;
+    background-color: black;
+    margin: auto;
+    /* padding-left: 24px; */
+    padding-top: 16px;
+    padding-bottom: 20px;
+    
+}
+
+.card_section .card1{
+  text-align: center;
+  width: 275px;
+  border: 1px solid red;
+  display: inline-block;
+  background-color: white;
+  padding-right: 14px;
+margin-left: 20px;
+}
+
+
+
+.card_section .card2{
+    text-align: center;
+    width: 275px;
+    border: 1px solid red;
+    display: inline-block;
+    background-color: white;
+    margin-left: 20px;
+
+}
+  
+
+
+  .card_section .card3{
+    background-color: white;
+    text-align: center;
+    width: 275px;
+    border: 1px solid red;
+    display: inline-block;
+    margin-left: 20px;
+  
+  }
+
+  .digital_section{
+    width: 980px;
+    margin: auto;
+  }
+  .digital_section .digital{
+   text-align: center;
+   width: 780px;
+   margin: auto;
+  }
+
+  .contact_section{
+    width: 980px;
+    margin: auto;
+    border: 1px solid red
+  }
+
+  .contact_section .contact_us{ 
+    border: 1px solid;
+    width: 485px;
+    display: inline-block;
+    margin-right: 0px;
+    text-align: center;
+    background-color: #2690D4;
+    color: white;
+  }
+  .contact_section .about_us{
+    text-align: center;
+    border: 1px solid red;
+    width: 485px;
+    display: inline-block;
+    background-color: #333333;
+    color: white;
+  }
+
+  .footer{
+    width: 980px;
+    background-color: black;
+    color: white;
+    margin: auto;
+
+  }
+  .footer h3{
+  margin-left: 60px;
+
+  }
